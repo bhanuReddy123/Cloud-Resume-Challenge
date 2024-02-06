@@ -6,7 +6,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
 // API endpoint
 const localFunctionApi = 'http://localhost:7071/api/ResumeCountFunc';
-const liveFunctionApi = 'https://resumecountfunc.azurewebsites.net/api/ResumeCountFunc?';
+const liveFunctionApi = 'https://resumeviewcounter.azurewebsites.net/api/ResumeCountFunc?';
 
 const getVisitCount = () => {
     let count = 10;

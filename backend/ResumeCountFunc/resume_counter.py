@@ -8,8 +8,8 @@ endpoint = os.environ["COSMOS_ENDPOINT"]
 account_key = os.environ["COSMOS_KEY"]
 
 client = CosmosClient(url=endpoint, credential=account_key)
-database_name = "ResumeDB"
-container_name = "ResumeContainer"
+database_name = "resumeDB"
+container_name = "resumeTable"
 item_id = "1"
 
 database = client.get_database_client(database_name)

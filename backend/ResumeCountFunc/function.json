@@ -15,6 +15,26 @@
       "type": "http",
       "direction": "out",
       "name": "$return"
+    },
+    
+    {
+      "type": "cosmosDB",
+      "name": "inputDocument",
+      "databaseName": "resumeDB",
+      "collectionName": "resumeTable",
+      "id": "{1}",
+      "partitionKey": "{1}",
+      "connectionStringSetting": "AccountEndpoint=https://azure-resumedb.documents.azure.com:443/;AccountKey=23XTAkk9GUXbzz4fio4JHituidlwRO2jrczyL59Sz8CQuYLlkfyOYDvpPDWiPKoZLhppvABT7j8lACDb3hbIpg==;",
+      "direction": "in"
+    },
+    {
+      "type": "cosmosDB",
+      "name": "outputDocument",
+      "databaseName": "resumeDB",
+      "collectionName": "resumeTable",
+      "createIfNotExists": true,
+      "connectionStringSetting": "AccountEndpoint=https://azure-resumedb.documents.azure.com:443/;AccountKey=23XTAkk9GUXbzz4fio4JHituidlwRO2jrczyL59Sz8CQuYLlkfyOYDvpPDWiPKoZLhppvABT7j8lACDb3hbIpg==;",
+      "direction": "out"
     }
   ]
 }
