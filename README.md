@@ -17,11 +17,12 @@ The following technologies were implemented in this project:
   * i'm not very experienced with front-end. to save time, I used this [template](https://www.styleshout.com/free-templates/ceevee/) to create my frontend.
   * Javascript fetch API
   * Azure Blob storage
+  * CDN
 
 * Backend
   * Azure Function
   * Python API
-
+  
 * Database
   * Azure Cosmos DB
 
