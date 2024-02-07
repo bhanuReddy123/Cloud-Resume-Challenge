@@ -2,8 +2,6 @@
 
 
 
-_icons credit: [icons8](https://icons8.com/)_
-
 
 ## Inspiration
 I'm a 4th year undergraduate student who is committed to continuous learning. cloud has become very main stream in the software world as i started learning cloud. i wanted to validate and  show case my skills in cloud technologies  
