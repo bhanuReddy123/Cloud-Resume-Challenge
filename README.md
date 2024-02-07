@@ -6,10 +6,10 @@ _icons credit: [icons8](https://icons8.com/)_
 
 
 ## Inspiration
-I'm a 4th year undergraduate student who is committed to continuous learning. cloud has become very main stream in software world so i started learning cloud as part of learning cloud i want to validate and  show case my skills in cloud technologies  
+I'm a 4th year undergraduate student who is committed to continuous learning. cloud has become very main stream in the software world as i started learning cloud. i wanted to validate and  show case my skills in cloud technologies  
 Here is my solution to the [Azure](https://cloudresumechallenge.dev/docs/the-challenge/azure/) version.
 
-View it live [here]()
+View it live [here](https://staticresume112.z29.web.core.windows.net/)
 
 
 ## Key Technologies Implemented
